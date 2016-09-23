@@ -1,0 +1,21 @@
+.imgsize {
+  height: 300px;
+  width: 620px;
+}
+#well {
+  font-size: 30px;
+  text-align: center;
+}
+
+/*.buttoncenter {
+  display: flex;
+  align-items: flex-end;
+}*/
+.centerbutton {
+  display: flex;
+  justify-content: center;
+  margin: 1px;
+}
+.page-header {
+  text-align: center;
+}
